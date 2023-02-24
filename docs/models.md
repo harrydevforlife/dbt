@@ -67,4 +67,5 @@ Example: If dbt run -s staging will run all models that exist in models/staging.
 The following framework can be a starting part for designing your own model organization:
 Marts folder: All intermediate, fact, and dimension models can be stored here. Further subfolders can be used to separate data by business function (e.g. marketing, finance)
 Staging folder: All staging models and source configurations can be stored here. Further subfolders can be used to separate data by data source (e.g. Stripe, Segment, Salesforce). (We will cover configuring Sources in the Sources module)
-![models](/images/models.webp)
+
+<img src='https://files.cdn.thinkific.com/file_uploads/342803/images/37a/954/943/models.png?width=1920'  width="60%" height="30%">
