@@ -1,5 +1,5 @@
 # Source knowlegde
-
+source: dbt course
 ## Sources
 - Sources represent the raw data that is loaded into the data warehouse.
 - We can reference tables in our models with an explicit table name (raw.jaffle_shop.customers).
